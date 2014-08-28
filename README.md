@@ -41,8 +41,10 @@ WebService::Heartrails::Express - API client for Heartrails Express API
 
 WebService::Heartrails::Express is the API client for Heartrails express API.
 
-Please refer [http://express.heartrails.com/api.html](http://express.heartrails.com/api.html)
+Please refer [http://express.heartrails.com/api.html](http://express.heartrails.com/api.html),[http://nlftp.mlit.go.jp/ksj/other/yakkan.html](http://nlftp.mlit.go.jp/ksj/other/yakkan.html),[http://www.heartrails.com/company/terms.html](http://www.heartrails.com/company/terms.html),[http://www.heartrails.com/company/disclaimer.html](http://www.heartrails.com/company/disclaimer.html)
 if you want to get imformation about Heartrails Express API.
+
+
 
 # LICENSE
 
