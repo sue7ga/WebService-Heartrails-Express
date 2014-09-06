@@ -4,7 +4,7 @@ use 5.008005;
 use Mouse;
 use WebService::Heartrails::Express::Provider;
 
-our $VERSION = "0.01";
+our $VERSION = "0.00";
 
 has provider => (
    is => 'ro',
