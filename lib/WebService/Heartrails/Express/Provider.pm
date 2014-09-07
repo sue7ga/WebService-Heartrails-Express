@@ -19,4 +19,8 @@ sub dispatch{
   $class->call($self,$arg);
 }
 
+no Mouse;
+__PACKAGE__->meta->make_immutable;
+
+
 1;
